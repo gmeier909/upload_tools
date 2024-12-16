@@ -1,7 +1,7 @@
 # upload
 copyright by https://github.com/dear-cell/upload
 
-# 使用场景
+## 使用场景
 1. 在目标机器可以出网的情况下可以通过exe上传目标文件到服务器。
 2. 在内网不出网的情况下，没有curl,wget命令,certutil不支持不安全的ssl证书下载。
 
